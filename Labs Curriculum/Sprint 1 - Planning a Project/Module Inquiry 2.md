@@ -10,12 +10,14 @@ Today I decided that my first pass solution needs to be simple. I'm going to get
 
 I like that we are limiting our scope to get a solid first pass solution. Once we get this first pass solution, it will be easier to see where we need to grow. 
 I also saw that we need to create a docker image to create an envirinment across our team. This is something I think we can all create together.
-    - Take a moment to think about the advantages in choosing the route that you did.
     
-    The advantage of a simple first pass solution is that I know where to start and I can make progress towards the solution even if its the minimal version of the product. This will also allow the web team to envision their solution quickly.
-    - Now take a moment to consider the disadvantages.
+   - Take a moment to think about the advantages in choosing the route that you did.
     
-    The disadvantages is that it may create more complications down the line if my firt pass solution is done with too narrow of a scope and I need to redo code so that I can encompass a larger scope.
+  The advantage of a simple first pass solution is that I know where to start and I can make progress towards the solution even if its the minimal version of the product. This will also allow the web team to envision their solution quickly.
+    
+   - Now take a moment to consider the disadvantages.
+    
+  The disadvantages is that it may create more complications down the line if my firt pass solution is done with too narrow of a scope and I need to redo code so that I can encompass a larger scope.
     
 3. In one or two sentences, summarize why you ultimately made the choice you did.
 
