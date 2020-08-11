@@ -16,6 +16,8 @@ Hiring managers don't just want to see what you built, they want to see the reas
 
 We took these questions and cooked them into your labs experience. Please answer the following questions as you would in an interview. Remember, hiring managers care about the **process** and the **why** of building something even more than the what.
 
+### Questions you need to answer
+
 1. Describe your **process** of breaking a release into user stories.
 2. Choose a user story. Describe your **reasoning** as you broke down that particular user story into individual tasks.
 3. How long do you think the above user story will take to complete? Explain your reasoning.
@@ -29,6 +31,8 @@ On the job, you'll be making technical decisions every day. Hiring managers want
 
 These sorts of questions inform your entire labs experience. You made a few technical decisions this week. We want to see how you would communicate them in an interview.
 
+### Questions you need to answer
+
 1. Describe a technical decision you made. How did you make that decision?
 2. What are some of the risks given the decision you made?
 3. What challenges do you foresee in using the architecture your team selected?
@@ -38,6 +42,8 @@ These sorts of questions inform your entire labs experience. You made a few tech
 ### [Power Statements](https://learn.lambdaschool.com/cr/module/recQUR9bWxvLBJknr](https://learn.lambdaschool.com/cr/module/recQUR9bWxvLBJknr))
 
 This lesson we reinforced how to turn your responsibilities and tasks into power statements. To practice, write a few power statements you intend to use in your LinkedIn profile. Before writing those statements, ensure your LinkedIn has all the following content checked off.
+
+Add a link to your Linkedin in your sprint challenge submission document.
 
 ## Personal and Contact Information:
 
