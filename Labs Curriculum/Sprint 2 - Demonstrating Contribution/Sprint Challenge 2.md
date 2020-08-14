@@ -68,6 +68,8 @@ To ensure you are creating a robust and ready to use job search resume, use this
 
 3. After making the recommended CV Compiler edits, submit a final resume draft to your TL.
 
+Link to resume: [Here](https://drive.google.com/file/d/1R61jEZiDU_6rPEoMvQQyzE6UPaqyqqg0/view?usp=sharing)
+
 4. Update your LinkedIn to include any new content you made for your resume. The experience bullets you created for your resume and projects are great examples of content you should consider bringing over to your profile.
 
 ## [Sprint Challenge Rubric](https://www.notion.so/1f9fa8ec9c4b4453a3fb21b60cc5352c)
